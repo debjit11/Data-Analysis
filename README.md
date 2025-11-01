@@ -1,3 +1,3 @@
 # Data-Analysis
-Exploratory Data Analysis (EDA)
+Exploratory Data Analysis 
 with multiple Kaggle data set
